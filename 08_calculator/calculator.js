@@ -25,12 +25,6 @@ const factorial = function (n) {
     n--;
   }
   return factorial;
-
-  // let factorial = 1;
-  // for (factorial; n > 1; n--) {
-  //   factorial *= n;
-  // }
-  // return factorial;
 };
 
 // Do not edit below this line
